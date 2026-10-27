@@ -17,10 +17,9 @@ Baixe ou clone o projeto e abra o arquivo `index.html` no navegador. Não é nec
 
 ## Estrutura
 
-- `index.html`: página principal.
-- `style.css`: estilos do site.
 - `imgs/`: fotos utilizadas nas galerias.
-- `Site Pessoal.md`: texto usado como base para o conteúdo.
+- `style.css`: estilos do site.
+- `index.html`: página principal.
 
 ## Autor
 
